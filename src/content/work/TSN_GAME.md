@@ -1,5 +1,5 @@
 ---
-title: TSN GAME
+title: Projet 3
 publishDate: 2023-07-21 15:00:00
 img: /assets/stock-3.jpg
 img_alt: Projet TSN GAME
@@ -12,7 +12,7 @@ tags:
   - MY SQL
 ---
 
-## 3e Projet
+## TSN Game
 
 > Réalisé au sein de la Wild Code School.
 

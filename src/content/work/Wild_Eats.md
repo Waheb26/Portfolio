@@ -1,5 +1,5 @@
 ---
-title: Wild Eats
+title: Projet 1
 publishDate: 2023-03-21 15:00:00
 img: /assets/stock-1.jpg
 img_alt: Projet Wild Eats
@@ -11,7 +11,7 @@ tags:
   - JAVASCRIPT
 ---
 
-## 1er Projet
+## Wils Eats
 
 > Réalisé au sein de la Wild Code School.
 

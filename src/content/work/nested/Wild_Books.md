@@ -1,5 +1,5 @@
 ---
-title: Wild Books
+title: Projet 2
 publishDate: 2023-05-08 15:00:00
 img: /assets/stock-2.jpg
 img_alt: Projet Wild Books
@@ -13,7 +13,7 @@ tags:
   - SCRUM AGILE
 ---
 
-## 2e Projet
+## Wild Books
 
 > Réalisé au sein de la Wild Code School.
 

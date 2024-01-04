@@ -25,3 +25,5 @@ L'application développée offre les fonctionnalités suivantes :
 3. Système de connexion sécurisé : Pour accéder à l'application, les utilisateurs doivent se connecter en utilisant leurs identifiants personnels. Cela garantit que seuls les employés d'EMMAÜS autorisés peuvent accéder et utiliser l'application.
 
 Ce projet a été réalisé avec succès lors du hackathon EMMAÜS et a démontré ma capacité à développer une application web fonctionnelle répondant aux besoins spécifiques d'une entreprise. La réalisation de cette application a permis d'améliorer l'efficacité et l'organisation des processus de gestion des produits multimédia au sein d'EMMAÜS.
+
+Lien du site: https://waheb26.github.io/hackathon-emmaus/
